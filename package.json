@@ -1,6 +1,6 @@
 {
   "name": "typographic-trademark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Don’t use alphabetic substitutes",
   "main": "index.es5.js",
   "scripts": {
